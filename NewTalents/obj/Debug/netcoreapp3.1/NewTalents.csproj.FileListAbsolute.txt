@@ -1,0 +1,13 @@
+D:\Visual Studio\repos\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.exe
+D:\Visual Studio\repos\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.deps.json
+D:\Visual Studio\repos\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.json
+D:\Visual Studio\repos\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.dev.json
+D:\Visual Studio\repos\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.dll
+D:\Visual Studio\repos\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.pdb
+D:\Visual Studio\repos\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\repos\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfoInputs.cache
+D:\Visual Studio\repos\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfo.cs
+D:\Visual Studio\repos\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.csproj.CoreCompileInputs.cache
+D:\Visual Studio\repos\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.dll
+D:\Visual Studio\repos\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.pdb
+D:\Visual Studio\repos\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.genruntimeconfig.cache
